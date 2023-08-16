@@ -1,1 +1,2 @@
-console.log("test 12345")
+const message = "test 12345";
+console.log(message);
